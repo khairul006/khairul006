@@ -15,8 +15,8 @@
 <p align="center">
   <br>"I want to be the one that know all the thing. From frontend to the backend. From local to the cloud. From architecture to the security.<br> 
   But to be realistic, I dream to be a cybersecurity expert and of course you must know how the cyber works. <br>
-  A big goal and here I am starting my journey with development."<br>
-  -- a little boy 
+  A big goal and here I am starting my journey with software development."<br>
+  -- a little dreamer 
 </p>
 <!--
 **khairul006/khairul006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
