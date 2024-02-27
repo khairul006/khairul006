@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>✨ Welcome to Khai's Space✨</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTliZWtlZmlzajVrMnc0aW50MXZrZmcweDI3bnE5ZDVlb2x0NnBrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
+  <img src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif" width="600" height="300"/>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khairul-zamidi-288a06209">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
